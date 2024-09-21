@@ -44,3 +44,4 @@ app.*.map.json
 
 
 /lib/database/postgres_helper.dart
+.vscode/
