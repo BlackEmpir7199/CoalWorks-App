@@ -55,6 +55,10 @@ CoalWorks-App is a mobile application designed to digitize and streamline operat
 - SQLite for local data storage
 - Background syncing mechanism
 
+## Prototype Screenshot
+![COAL-SIH (3)](https://github.com/user-attachments/assets/3ba55c82-4266-427f-8e38-ea1a11b411ff)
+
+
 ## Installation
 
 1. **Prerequisites**:
